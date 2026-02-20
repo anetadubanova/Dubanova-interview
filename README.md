@@ -28,10 +28,8 @@ The model determines:
 ## Part II – Stochastic Two-Product Extension
 
 The model is extended to:
-- Two products
+- Two products (two inventory state variables)
 - Random demand modeled using independent Binomial distributions
 - Expected profit maximization
-- Two inventory state variables
-- Two control variables (daily order quantities)
-- Capacity and ordering constraints for both products
-- Terminal value for unsold inventory
+
+
